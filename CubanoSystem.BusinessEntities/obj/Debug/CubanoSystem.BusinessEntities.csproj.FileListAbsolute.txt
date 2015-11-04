@@ -1,0 +1,14 @@
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.dll
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.pdb
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.dll
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.pdb
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.dll
+C:\Users\Freddy\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.pdb
+C:\Users\Freddy\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.dll
+C:\Users\Freddy\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.pdb
+C:\Users\MANUEL\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.dll
+C:\Users\MANUEL\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.pdb
+C:\Users\MANUEL\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\MANUEL\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.dll
+C:\Users\MANUEL\Desktop\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.pdb

@@ -1,0 +1,4 @@
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.dll
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\bin\Debug\CubanoSystem.BusinessEntities.pdb
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.dll
+D:\UPN\DIARS\Cubanos System\CubanosGym\CubanoSystem.BusinessEntities\obj\Debug\CubanoSystem.BusinessEntities.pdb
